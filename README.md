@@ -1,3 +1,8 @@
 **Author: Sydney Van Hoose**
 
-*Reference file*Add Edit 1
+*Reference file*
+
+> One of Sydney's favorite quotes:
+>> "Hope is a discipline." - James Baldwin
+
+
